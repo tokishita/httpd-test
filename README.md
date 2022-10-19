@@ -1,1 +1,2 @@
 # httpd-test
+build test
